@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">OrderFoodApplication</string>
+    <string name="title_home">Home </string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notification">Notification</string>
+
+    <string-array name="City">
+        <item>Nairobi</item>
+        <item>Kisumu</item>
+    </string-array>
+
+    <string-array name="deliveryPerson">
+        <item>Person 1</item>
+        <item>Person 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Taco</item>
+        <item>MilkShake</item>
+        <item>Croissant</item>
+        <item>Kebab</item>
+        <item>Fried Chicken</item>
+        <item>Hamburger</item>
+        <item>Pizza</item>
+        <item>Sandwich</item>
+        <item>Pilau Chicken</item>
+        <item>Pilau Beef</item>
+        <item>Rice Beans</item>
+        <item>Ugali Kales</item>
+        <item>Ugali Cabbage</item>
+        <item>Ugali Beef</item>
+        <item>Ugali Tripe</item>
+        <item>Chapati Beef</item>
+    </string-array>
+</resources>

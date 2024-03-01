@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OrderFoodApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- primary brand color. -->
+        <item name="colorPrimary">@color/autumn</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/red</item>
+
+        <!-- secondary brand color. -->
+
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/yellow</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status bar-color. -->
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+
+
+    </style>
+
+    <style name="Theme.OrderFoodApplication" parent="Base.Theme.OrderFoodApplication" />
+</resources>
