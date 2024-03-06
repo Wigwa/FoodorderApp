@@ -42,6 +42,7 @@ import java.util.Objects;
 
                 }else {
                     checkUser();
+                    startActivity(new Intent(LogInActivity.this, MainActivity.class));
                 }
 
             }
